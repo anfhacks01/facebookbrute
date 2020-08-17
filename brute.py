@@ -40,7 +40,7 @@ def cover():
     
     
      """
-    runntek(GL+"           (...^_^ ANF HACKS ^_^...)
+    runntek(GL+"           ARIN NETWORK'ANF HACKS ^_^...")
     time.sleep(1)
     print " "
     print RR+"  +============================================+"
