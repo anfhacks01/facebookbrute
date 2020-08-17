@@ -146,8 +146,8 @@ For paid services dm on instagram or telegram
         total = open(passwordlist,"r")
         total = total.readlines()
         print " "
-        print GL+" [*] Cuenta a Crackear : {}".format(email)
-        print RR+" [*] Cantidad :" , len(total),WW+ "passwords"
+        print GL+" [*] Account to Crack : {}".format(email)
+        print RR+" [*] Quantity :" , len(total),WW+ "passwords"
         print Y+" [*] Cracking, please wait .....\n\n"
 
 if __name__ == '__main__':
